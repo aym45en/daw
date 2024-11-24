@@ -1,0 +1,43 @@
+body {
+    background-color: aqua;
+}
+
+header {
+    text-align: center;
+}
+
+header div{
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+header div h4 {
+    margin: 0 10px;
+}
+
+img {
+    width: 50px;
+    height: 50px;
+}
+
+.project {
+    display: flex;
+}
+
+.project div {
+    border: 1px solid black;
+    margin: 20px;
+}
+
+.content {
+    background-color: rgb(7, 146, 238);
+    padding: 20px;
+    display: block;
+}
+.content input,
+.content textarea,
+.content button {
+    width: 100%;
+    box-sizing: border-box;
+}

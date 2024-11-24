@@ -1,0 +1,13 @@
+body{
+    padding: 20px;
+}
+
+h1{
+    color: #ff0000;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    position: absolute; top: 50px; right: 50px;
+}
