@@ -12,7 +12,6 @@ public class StudentRepository {
     private List<Student> students = new ArrayList<>();
 
     public StudentRepository() {
-        students.add(new Student("mohamed", "med@example.com", 25));
     }
 
     public List<Student> findAll() {
